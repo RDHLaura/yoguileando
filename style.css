@@ -22,12 +22,12 @@ body{
 a{
     text-decoration: none;
 }
-nav{
-    position: fixed;
-}
+
 .navbar{
+    position: fixed;
     width: 100%;
     height: 100px;
+    overflow: hidden;
     background-color:aliceblue ;   
     justify-content: space-between;
     align-items: center;
